@@ -1,0 +1,1 @@
+# clinc_mangement_system
