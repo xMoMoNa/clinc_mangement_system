@@ -1,6 +1,6 @@
 # clinc_mangement_system
 At the beginning of the system it asks the user to choose between admin mode and user mode.
-# In admin mode:
+### In admin mode:
 The system asks for password, the default password is 1234. The system allows 3 trails for the password entry, 
 if the entered password was incorrect for 3 consecutive times, the system shall close. 
 After login in the admin mode, the system shall provide the following features:
@@ -14,7 +14,7 @@ Upon opening of this window, the system shall display the available slots. The a
 The reserved slot shall not appear again in the next patient reservation.
 5. Cancel reservation.
 The admin can cancel a reservation by entering the patient ID. This reservation shall be shown again in the available slots window.
-# In the user mode
+### In the user mode
 There is no password. The system allows the following features:
 1. View patient record.
 By entering the patient ID, the system shall show the basic information for the patient.
